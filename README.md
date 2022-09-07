@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -65,9 +65,8 @@ I want to continue to develop my skills by studying advanced css and dive into b
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
+- Frontend Mentor - [https://www.frontendmentor.io/profile/DINIPRE]
+- Twitter - [https://twitter.com/moroyei_desire]
 
 ## Acknowledgments
 

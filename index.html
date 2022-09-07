@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+
+    <title>Frontend Mentor | QR code component</title>
+  
+    <style>
+    *{
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+    }
+    body{
+        background-color: hsl(212, 45%, 89%);
+        padding-top: 100px;
+        padding-bottom: 100px;
+        min-height: 80vh;
+    }
+    .uno{
+        background-color: hsl(0, 0%, 100%);
+        width: 375px;
+        margin: 0 auto;
+        /*border: 2px solid black;*/
+        height: 75vh;
+        border-radius: 10px;
+        text-align: center;
+    }
+    .barcode{
+        padding: 10px;
+    
+    }
+    .barcode img{
+        border-radius: 10px;
+        
+
+    }
+    .text{
+        font-weight: 700;
+        padding: 10px;
+        color:hsl(218, 44%, 22%);
+        line-height: normal;
+        font-size: 12px;
+        font-family: sans-serif;
+        
+    
+    }
+    .text2{
+        font-weight: 400;
+        color: hsl(220, 15%, 55%);
+        display: block;
+        padding: 5px;
+        font-size: 15px;
+        line-height: normal;
+    
+    }
+
+        
+    </style>
+</head>
+<body>
+    <div class="uno">
+       <div class="barcode">
+        <img src="image-qr-code.png" width="350" height="300">
+    </div>
+    <div class="text">
+        <h1>Improve your fron-tend <br> skills by building projects</h1>
+    </div>
+        <div class="text2">
+        <p>Scan the QR code to visit Frontend Mentor <br>and take your coding skills to <br> the next level</p>
+        </div>
+    </div>
+</body>
+</html>
